@@ -1,0 +1,1 @@
+web: java -jar target/ctl-be-0.0.1-SNAPSHOT.jar 
